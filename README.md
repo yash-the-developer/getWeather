@@ -1,4 +1,4 @@
-<h1 align="center">:sunny::umbrella::cloud:  Weather Mate 1.1  :snowflake::snowman::zap:</h1>
+<h1 align="center">:sunny::umbrella::cloud:  Weather Mate   :snowflake::snowman::zap:</h1>
 
 
 Web Scraping the current weather in Brazilian cities using Python 3.
